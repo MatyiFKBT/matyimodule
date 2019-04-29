@@ -4,7 +4,7 @@ ld = codecs.open('README.md','r','utf-8').read()
 print(ld)
 setuptools.setup(
     name="matyimodule",
-    version="0.9",
+    version="1.0",
     description="Egy minta, hogy hogyan kell Pip csomagot csinálni.",
     long_description=open('README.md', encoding='UTF-8').read(),
     long_description_content_type="text/markdown",
