@@ -12,10 +12,9 @@ print(a)
 ```
 ### Parancssor
 ``` bash
-matyicommand
-```
-```
-siker.
+$ matyicommand
+
+> siker.
 ```
 ## Feltöltés
 ```bash
